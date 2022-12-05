@@ -1,7 +1,9 @@
 # Embedded Networking Final Project
 
+# Source Code:
+
 [Source Code](WeatherClockEmbeddedNetworking.ino)
 
-[Paper](paper/conference_101719.pdf)
+# Deatails on Project:
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=n8XpZiIHc9Y)
+[Paper](paper/conference_101719.pdf)
