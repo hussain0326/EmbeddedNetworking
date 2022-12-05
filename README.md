@@ -4,6 +4,6 @@
 
 [Source Code](WeatherClockEmbeddedNetworking.ino)
 
-# Deatails on Project:
+# Details on Project:
 
 [Paper](paper/conference_101719.pdf)
